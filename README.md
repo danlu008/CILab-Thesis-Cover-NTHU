@@ -11,6 +11,6 @@ Thesis cover setting with LaTex in overleaf.
 
 <object data="./NTHU_thesis_cover.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="./NTHU_thesis_cover.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./NTHU_thesis_cover.pdf">Download PDF</a>.</p>
     </embed>
 </object>
