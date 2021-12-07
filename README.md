@@ -1,4 +1,4 @@
-<style>
+(setq markdown-xhtml-header-content "<style type='text/css'>
     .tex sub, .latex sub, .latex sup {
       text-transform: uppercase;
     }
@@ -19,7 +19,7 @@
       margin-left: -0.36em;
       margin-right: -0.15em;
     }
-</style>
+</style>")
 
 # CILab-Thesis-Cover-NTHU
 Thesis cover setting with LaTex in overleaf.
