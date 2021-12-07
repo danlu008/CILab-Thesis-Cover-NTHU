@@ -1,0 +1,47 @@
+\documentclass{nthuThesis}
+
+\usepackage{times}
+\usepackage{verbatim}
+\usepackage{color}
+\usepackage{url}
+\usepackage{graphicx}
+\usepackage{array}
+\usepackage{wallpaper} 
+\usepackage{cite}
+\usepackage{caption}
+
+\usepackage{multirow}
+\usepackage{makecell}
+\usepackage{hhline}
+\usepackage{rotating}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{mathrsfs}
+
+\usepackage{emptypage}
+
+% declare the watermark file paths
+\graphicspath{{./figsrc/}}
+
+% Using the tex-text mapping for ligatures etc.
+\defaultfontfeatures{Mapping=tex-text}
+
+% Set default English font
+\usepackage{fontspec}
+\setmainfont{Times New Roman.ttf}
+
+% Set default Chinese font
+\setCJKmainfont[AutoFakeBold=3,AutoFakeSlant=.4]{kaiu.ttf}
+\defaultCJKfontfeatures{AutoFakeBold=6,AutoFakeSlant=.4}
+
+% Set watermark
+\CenterWallPaper{0.25}{nthulogo.png}
+
+% Your information goes here
+\input{nthuvars}
+
+% Begin document
+\begin{document}
+    \frontmatter
+    \makecover
+\end{document}
