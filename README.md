@@ -1,5 +1,5 @@
 # CILab-Thesis-Cover-NTHU
-Thesis cover setting with LaTex ![LATEX](https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg) in overleaf.
+Thesis cover setting with LaTex in overleaf.
 
 ## Usage
 1. Upload files or .zip to overleaf.
