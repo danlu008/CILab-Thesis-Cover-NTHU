@@ -1,6 +1,5 @@
-<img src="LaTex HTML/LaTex.svg"/>
-<img src="LaTex HTML/LaTex_logo.png"/>
-<img src="LaTex HTML/Overleaf_logo.png"/>
+<img src="LaTex HTML/LaTex_logo.png" width="300"/>
+<img src="LaTex HTML/Overleaf_logo.png" width="300"/>
 
 
 # CILab-Thesis-Cover-NTHU
