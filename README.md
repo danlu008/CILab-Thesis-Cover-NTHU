@@ -1,6 +1,6 @@
 # CILab-Thesis-Cover-NTHU
 Thesis cover setting with LaTex in overleaf.
-
+\LaTeX
 ## Usage
 1. Upload files or .zip to overleaf.
 2. Setting compiler as *XeLatex*.
