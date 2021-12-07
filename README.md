@@ -1,6 +1,11 @@
 # CILab-Thesis-Cover-NTHU
 Thesis cover setting with LaTex in overleaf.
 
+## Usage
+1. Upload files or .zip to overleaf.
+2. Setting compiler as XeLatex.
+3. Edit information in nthuvars.tex.
+
 ## Author
 * Yu-Wei Wu
 * Meng-Huan Lu
