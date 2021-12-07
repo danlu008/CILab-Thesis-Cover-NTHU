@@ -1,6 +1,6 @@
 # CILab-Thesis-Cover-NTHU
 <img src="Title_Logo.png" width="600"/>
-Thesis cover setting with LaTex in overleaf.
+Thesis cover setting with *LaTex* in *Overleaf*.
 
 ## Usages
 1. Upload files or .zip to overleaf.
