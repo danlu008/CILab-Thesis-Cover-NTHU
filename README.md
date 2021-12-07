@@ -1,4 +1,4 @@
-<img src="LaTex HTML/Latex.svg"/>
+<img src="LaTex HTML/LaTex.svg"/>
 
 # CILab-Thesis-Cover-NTHU
 Thesis cover setting with LaTex in overleaf.
