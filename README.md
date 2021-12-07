@@ -1,4 +1,4 @@
-```{css, echo=FALSE}
+<style>
     .tex sub, .latex sub, .latex sup {
       text-transform: uppercase;
     }
@@ -19,7 +19,7 @@
       margin-left: -0.36em;
       margin-right: -0.15em;
     }
-```
+</style>
 
 # CILab-Thesis-Cover-NTHU
 Thesis cover setting with LaTex in overleaf.
