@@ -1,4 +1,4 @@
-<svg src="LaTex HTML/Latex.html" alt="drawing" width="600"/>
+<html src="LaTex HTML/Latex.html"></html>
 
 # CILab-Thesis-Cover-NTHU
 Thesis cover setting with LaTex in overleaf.
@@ -17,4 +17,4 @@ Thesis cover setting with LaTex in overleaf.
 * 魔改：https://github.com/signxer/nthu-thesis-template-mod
 
 ## Template Preview
-<img src="NTHU_thesis_cover.png" alt="drawing" width="600"/>
+<img src="NTHU_thesis_cover.png" width="600"/>
