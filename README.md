@@ -1,4 +1,4 @@
-# CILab-Thesis-Cover-NTHU-
+# CILab-Thesis-Cover-NTHU
 Thesis cover setting with LaTex in overleaf.
 
 ## Author
