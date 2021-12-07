@@ -1,7 +1,5 @@
-<img src="Title_Logo.png" width="600"/>
-
-
 # CILab-Thesis-Cover-NTHU
+<img src="Title_Logo.png" width="600"/>
 Thesis cover setting with LaTex in overleaf.
 
 ## Usage
