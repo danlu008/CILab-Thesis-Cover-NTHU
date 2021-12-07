@@ -2,12 +2,12 @@
 <img src="Title_Logo.png" width="600"/>
 Thesis cover setting with LaTex in overleaf.
 
-## Usage
+## Usages
 1. Upload files or .zip to overleaf.
 2. Setting compiler as *XeLatex*.
 3. Edit your information (name, topic, date, etc.) in *nthuvars.tex*.
 
-## Author
+## Authors
 * Yu-Wei Wu
 * Meng-Huan Lu
 
