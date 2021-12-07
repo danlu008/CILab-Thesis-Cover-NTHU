@@ -26,10 +26,10 @@
 		</style>
 			<div class="box-container">
                 <div class="box">
-                    <img src="../LaTex_logo.png" alt="LaTex" height="120"/>
+                    <img src="LaTex_logo.png" alt="LaTex" height="120"/>
                 </div>
                 <div class="box">
-                    <img src="../Overleaf_logo.png" alt="Overleaf" height="120"/>
+                    <img src="Overleaf_logo.png" alt="Overleaf" height="120"/>
                 </div>
 			</div>
 		</div>
