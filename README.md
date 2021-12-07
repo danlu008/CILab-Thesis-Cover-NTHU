@@ -1,7 +1,11 @@
 # CILab-Thesis-Cover-NTHU-
 Thesis cover setting with LaTex in overleaf.
 
-Credit: 
+## Author
+Yu-Wei Wu
+Meng-Huan Lu
+
+## Credit: 
 
 原版：https://github.com/HW-Lee/nthu-thesis-template
 
