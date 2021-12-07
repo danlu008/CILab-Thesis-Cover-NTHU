@@ -4,7 +4,7 @@
 Thesis cover setting with *LaTex* in *Overleaf*.
 
 ## Usages
-1. Upload files or .zip to overleaf.
+1. Upload files or .zip to *Overleaf*.
 2. Setting compiler as *XeLatex*.
 3. Edit your information (name, topic, date, etc.) in *nthuvars.tex*.
 
