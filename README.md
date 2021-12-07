@@ -4,7 +4,7 @@ Thesis cover setting with LaTex in overleaf.
 ## Usage
 1. Upload files or .zip to overleaf.
 2. Setting compiler as XeLatex.
-3. Edit information in nthuvars.tex.
+3. Edit your information (name, topic, date, etc.) in nthuvars.tex.
 
 ## Author
 * Yu-Wei Wu
