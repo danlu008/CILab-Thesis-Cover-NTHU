@@ -5,8 +5,9 @@ Thesis cover setting with LaTex in overleaf.
 * Yu-Wei Wu
 * Meng-Huan Lu
 
-## Credit: 
+## Credit
 * 原版：https://github.com/HW-Lee/nthu-thesis-template
 * 魔改：https://github.com/signxer/nthu-thesis-template-mod
 
-![alt text](NTHU_thesis_cover.png)
+## Template Preview
+<img src="NTHU_thesis_cover.png" alt="drawing" width="600"/>
